@@ -7,3 +7,5 @@ renderizador de imagem desenvolvido para comparar a performance de execução em
 Trabalho de conclusão de curso dos alunos: Andre e Carlos
 
 Paralelismo de processamento utilizando a GPU
+
+Professor Orientador: Veloso
